@@ -1,16 +1,16 @@
 {
-    "version": "1.6.4",
+    "version": "1.6.5",
     "description": "siGit Code, an AI coding agent that runs on your machine.",
     "homepage": "https://sigit.si",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/getsigit/sigit/releases/download/v1.6.4/sigit-win-amd64.exe#/sigit.exe",
-            "hash": "710d90f1ec495ba852283c9965396e937033056979bf4fc1cf7989db0bfc6eb9"
+            "url": "https://github.com/getsigit/sigit/releases/download/v1.6.5/sigit-win-amd64.exe#/sigit.exe",
+            "hash": "e659b8b178dd3063c7ca30dae8e62e7db0f60f3017e767f517cf2768bfb0a536"
         },
         "arm64": {
-            "url": "https://github.com/getsigit/sigit/releases/download/v1.6.4/sigit-win-arm64.exe#/sigit.exe",
-            "hash": "7a088770d3fb7e547594678dde888e18598cfae55d513b87131d11fec2990df6"
+            "url": "https://github.com/getsigit/sigit/releases/download/v1.6.5/sigit-win-arm64.exe#/sigit.exe",
+            "hash": "e89f6fe4b3af7105d22ebaa0c49b5e8715cdf074c343b68d5d61d5fbf96f20fa"
         }
     },
     "bin": "sigit.exe",
