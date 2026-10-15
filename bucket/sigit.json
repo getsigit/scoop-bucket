@@ -1,16 +1,16 @@
 {
-    "version": "1.6.9",
-    "description": "siGit Code, an AI coding agent that runs on your machine.",
-    "homepage": "https://sigit.si",
+    "version": "1.7.0",
+    "description": "A modular local inference LLM coding agent. Core component of siGit Factory.",
+    "homepage": "https://sigit.si/code",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/getsigit/sigit/releases/download/v1.6.9/sigit-win-amd64.exe#/sigit.exe",
-            "hash": "e29277196cf105685782ed950a3e22e69f7651a3e1f918cb6c6fc4aea77cc35f"
+            "url": "https://github.com/getsigit/sigit/releases/download/v1.7.0/sigit-win-amd64.exe#/sigit.exe",
+            "hash": "387b39fca32fdce5b8985251f34dd885b8d110e1d9618a46f8c7a6747c319acc"
         },
         "arm64": {
-            "url": "https://github.com/getsigit/sigit/releases/download/v1.6.9/sigit-win-arm64.exe#/sigit.exe",
-            "hash": "2cb59e65f27a25270801461bd01856fa9bc14d377d14fd1acd4ef4ab70835cd3"
+            "url": "https://github.com/getsigit/sigit/releases/download/v1.7.0/sigit-win-arm64.exe#/sigit.exe",
+            "hash": "3d835f9c7f13c93ba10a72ced7deea47d2161a1da2bbfee57541246f58bf80a6"
         }
     },
     "bin": "sigit.exe",
