@@ -1,16 +1,16 @@
 {
-    "version": "1.7.6",
+    "version": "1.7.7",
     "description": "A modular local inference LLM coding agent. Core component of siGit Factory.",
     "homepage": "https://sigit.si/code",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/getsigit/sigit/releases/download/v1.7.6/sigit-win-amd64.exe#/sigit.exe",
-            "hash": "f1947bbd88ca3c64121c35b6615929943fdf7d491ef74239e7dbb7452bcb4bcf"
+            "url": "https://github.com/getsigit/sigit/releases/download/v1.7.7/sigit-win-amd64.exe#/sigit.exe",
+            "hash": "58a98ee917f63f6ab6077d837c9e57eca4aea83272e66c27c7978e1ccd4e5486"
         },
         "arm64": {
-            "url": "https://github.com/getsigit/sigit/releases/download/v1.7.6/sigit-win-arm64.exe#/sigit.exe",
-            "hash": "e38188629df6c224b94fa02b0e95921e83f2ad4a0b7787d1a2a8cc84cffcaca3"
+            "url": "https://github.com/getsigit/sigit/releases/download/v1.7.7/sigit-win-arm64.exe#/sigit.exe",
+            "hash": "72e20c5f1d4234191387224efefcb1c40fb7f4b73c44e3264e26dd65ae804321"
         }
     },
     "bin": "sigit.exe",
